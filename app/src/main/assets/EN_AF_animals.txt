@@ -1,0 +1,25 @@
+English;Afrikaans;EN-AF Animals
+Bird;Voël
+Dog;Hond
+Cat;Kat
+Squirrel;Eekhoring
+Deer;Bok
+Reptile;Reptiel
+Bear;Beer
+Snake;Slang
+Horse;Perd
+Pig;Vark
+Lion;Leeu
+Goat;Bok
+Sheep;Skape
+Chicken;Hoender
+Duck;Eend
+Turkey;Turkye
+Bee;Bee
+Fly;Vlieg
+Cockroach;Kakkerlak
+Beetle;Besie
+Spider;Spinnekop
+Grasshopper;Sprinkaan
+Ant;Mier
+Butterfly;Skoenlapper

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Learnt</string>
+
+    <string name="delete_button_text">-</string>
+    <string name="instruction_text">Learnt will give you a notification every minute which will contain either the term or the definition of your pair.\nIf you click on \'Show me\' when the notification comes up, a toast will appear showing you the appropriate answer.\nClicking \'Learnt it\' on the notification will remove the pair from this list.</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+
+
+    <string name="group_deleted_intent">com.beyarkay.learnt.group_deleted</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_header_general">General</string>
+
+
+    <string name="pref_title_notification_frequency">Quiz you on your pairs…</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1530819013048723/5930299298</string>
+
+    <string name="pref_title_notification_direction">Prompt you with</string>
+
+    <string name="pref_term_title_default">Term</string>
+    <string name="pref_definition_title_default">Definition</string>
+
+    <string name="pref_title_chooser_definition">Title for \'Definition\' column</string>
+    <string name="pref_title_chooser_term">Title for \'Term\' column</string>
+    <string name="pref_key_notification_frequency">pref_notification_frequency</string>
+    <string name="pref_notification_prompt_default">Translation of:</string>
+
+    <!--from website-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Getting started</string>
+    <string name="slide_2_title">Create+Name your Set</string>
+    <string name="slide_3_title">Add Pairs</string>
+    <string name="slide_4_title">Finishing off</string>
+    <string name="slide_5_title">It\'s done</string>
+
+    <string name="string_set_empty">This set is empty</string>
+    <string name="contraction_state_expanded">expanded</string>
+    <string name="contraction_state_contracted">contracted</string>
+    <string name="bool_true">true</string>
+    <string name="bool_false">false</string>
+    <string name="empty_set_error_string">This Set is empty</string>
+    <string name="empty_string"></string>
+    <string name="search_hint">Search Quizlet for Sets</string>
+
+    <!--<string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>-->
+    <!--<string name="play_again">Play Again</string>-->
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="set_card_title_size">16dp</dimen>
+    <dimen name="padding_set_card">0dp</dimen>
+    <dimen name="padding_group">16dp</dimen>
+    <dimen name="padding_rv">16dp</dimen>
+</resources>

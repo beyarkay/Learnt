@@ -1,0 +1,14 @@
+English;Spanish;EN-ES Pleasantries
+Hi                ;Hola
+Good morning      ;Buenos días
+Good evening      ;Buena noches
+Yes               ;Sí
+No                ;No
+Good night        ;Buenas noches
+Goodbye           ;Adiós
+Please            ;Por favor
+Thank You         ;Gracias
+How are you       ;Cómo estás
+Very well, thanks ;Muy bien gracias
+Excuse me         ;Disculpe
+Sorry             ;Lo siento

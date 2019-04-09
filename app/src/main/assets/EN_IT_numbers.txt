@@ -1,0 +1,102 @@
+English;Italian;EN-IT Numbers
+Zero          ;Zero
+One           ;Uno
+Two           ;Due
+Three         ;Tre
+Four          ;Quattro
+Five          ;Cinque
+Six           ;Sei
+Seven         ;Sette
+Eight         ;Otto
+Nine          ;Nove
+Ten           ;Dieci
+Eleven        ;Undici
+Twelve        ;Dodici
+Thirteen      ;Tredici
+Fourteen      ;Quattordici
+Fifteen       ;Quindici
+Sixteen       ;Sedici
+Seventeen     ;Dicias sette
+Eighteen      ;Diciotto
+Nineteen      ;Dician nove
+Twenty        ;Venti
+Twenty-One    ;Vent uno
+Twenty-Two    ;Venti due
+Twenty-Three  ;Ventitré
+Twenty-Four   ;Venti quattro
+Twenty-Five   ;Venti cinque
+Twenty-Six    ;Venti sei
+Twenty-Seven  ;Venti sette
+Twenty-Eight  ;Vent otto
+Twenty-Nine   ;Venti nove
+Thirty        ;Trenta
+Thirty-One    ;Trent uno
+Thirty-Two    ;Trenta due
+Thirty-Three  ;Trenta tre
+Thirty-Four   ;Trenta quattro
+Thirty-Five   ;Trenta cinque
+Thirty-Six    ;Trenta sei
+Thirty-Seven  ;Trenta sette
+Thirty-Eight  ;Trent otto
+Thirty-Nine   ;Trenta nove
+Forty         ;Quaranta
+Forty-One     ;Quarant uno
+Forty-Two     ;Quaranta due
+Forty-Three   ;Quaranta tre
+Forty-Four    ;Quaranta quattro
+Forty-Five    ;Quaranta cinque
+Forty-Six     ;Quaranta sei
+Forty-Seven   ;Quaranta sette
+Forty-Eight   ;Quarant otto
+Forty-Nine    ;Quaranta nove
+Fifty         ;Cinquanta
+Fifty-One     ;Cinquant uno
+Fifty-Two     ;Cinquanta due
+Fifty-Three   ;Cinquanta tre
+Fifty-Four    ;Cinquanta quattro
+Fifty-Five    ;Cinquanta cinque
+Fifty-Six     ;Cinquanta sei
+Fifty-Seven   ;Cinquanta  sette
+Fifty-Eight   ;Cinquant otto
+Fifty-Nine    ;Cinquanta nove
+Sixty         ;Sessanta
+Sixty-One     ;Sessant uno
+Sixty-Two     ;Sessanta due
+Sixty-Three   ;Sessanta tre
+Sixty-Four    ;Sessanta quattro
+Sixty-Five    ;Sessanta cinque
+Sixty-Six     ;Sessanta sei
+Sixty-Seven   ;Sessanta sette
+Sixty-Eight   ;Sessant otto
+Sixty-Nine    ;Sessanta  nove
+Seventy       ;Settanta
+Seventy-One   ;Settant uno
+Seventy-Two   ;Settanta due
+Seventy-Three ;Settanta tre
+Seventy-Four  ;Settanta quattro
+Seventy-Five  ;Settanta cinque
+Seventy-Six   ;Settanta sei
+Seventy-Seven ;Settanta sette
+Seventy-Eight ;Settant otto
+Seventy-Nine  ;Settanta nove
+Eighty        ;Ottanta
+Eighty-One    ;Ottant uno
+Eighty-Two    ;Ottanta due
+Eighty-Three  ;Ottanta tre
+Eighty-Four   ;Ottanta quattro
+Eighty-Five   ;Ottanta cinque
+Eighty-Six    ;Ottanta sei
+Eighty-Seven  ;Ottanta sette
+Eighty-Eight  ;Ottant otto
+Eighty-Nine   ;Ottanta nove
+Ninety        ;Novanta
+Ninety-One    ;Novant uno
+Ninety-Two    ;Novanta due
+Ninety-Three  ;Novanta  tre
+Ninety-Four   ;Novanta quattro
+Ninety-Five   ;Novanta cinque
+Ninety-Six    ;Novanta sei
+Ninety-Seven  ;Novanta sette
+Ninety-Eight  ;Novant' otto
+Ninety-Nine   ;Novanta nove
+Hundred       ;Centinaio

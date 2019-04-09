@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_micro_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@color/grey_E"
+    tools:context="beyarkay.learnt.ActivityMicroView">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/addGroup"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="bottom"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:onClick="addGroupFabClicked"
+        android:src="@drawable/ic_add_white_24dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="0dp"
+        android:orientation="vertical">
+
+        <TableRow
+            android:id="@+id/header_table_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp">
+
+            <TextView
+                android:id="@+id/term_title_TV"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_weight="5"
+                android:gravity="center_vertical|start"
+                android:text="Term"
+                android:textColor="@color/grey_6"
+                android:textSize="25sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/definition_title_TV"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_weight="5"
+                android:text="Definition"
+                android:textColor="@color/grey_6"
+                android:textSize="25sp"
+                android:textStyle="normal|bold" />
+
+            <Space
+                android:id="@+id/spacing"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/content_table_row"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true">
+
+                <LinearLayout
+                    android:id="@+id/scrollingHolder"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/groupHolder"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="4dp">
+
+                    </LinearLayout>
+
+                    <include layout="@layout/prefab_more_groups"
+                        android:id="@+id/loadGroupsButton"/>
+                    <!--<LinearLayout-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="match_parent"-->
+                        <!--android:orientation="horizontal">-->
+
+                        <!--<TextView-->
+                            <!--android:id="@+id/loadGroupsButton"-->
+                            <!--android:layout_width="0dp"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_margin="6dp"-->
+                            <!--android:layout_marginBottom="16dp"-->
+                            <!--android:layout_marginTop="16dp"-->
+                            <!--android:layout_weight="1"-->
+                            <!--android:background="@drawable/grey_d_ripple"-->
+                            <!--android:clickable="true"-->
+                            <!--android:fontFamily="sans-serif"-->
+                            <!--android:gravity="center_horizontal"-->
+                            <!--android:onClick="onLoadGroupsButtonClick"-->
+                            <!--android:paddingBottom="8dp"-->
+                            <!--android:paddingTop="8dp"-->
+                            <!--android:text="Load Remaining Groups"-->
+                            <!--android:textColor="@color/secondary_light" />-->
+                    <!--</LinearLayout>-->
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp" />
+                </LinearLayout>
+            </ScrollView>
+        </TableRow>
+    </LinearLayout>
+
+</RelativeLayout>

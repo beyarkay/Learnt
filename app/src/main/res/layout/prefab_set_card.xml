@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:animateLayoutChanges="true"
+    android:background="@color/grey_0">
+
+    <RelativeLayout
+        android:id="@+id/rlCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent">
+
+        <TextView
+            android:id="@+id/tvSetCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tvSetTitle"
+            android:layout_alignTop="@+id/tvSetTitle"
+            android:background="@color/grey_D"
+            android:gravity="center_vertical|center_horizontal"
+            android:paddingLeft="4dp"
+            android:paddingStart="4dp"
+            android:text="8"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/ivCaret"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tvSetTitle"
+            android:layout_alignTop="@+id/tvSetTitle"
+            android:layout_toEndOf="@+id/tvSetCount"
+            android:layout_toRightOf="@+id/tvSetCount"
+            android:background="@color/grey_D"
+            app:srcCompat="@drawable/ic_expand_more_white_24dp" />
+
+        <Space
+            android:id="@+id/anchor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tvSetTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@id/ivCaret"
+            android:layout_toLeftOf="@+id/toggle"
+            android:layout_toRightOf="@id/ivCaret"
+            android:layout_toStartOf="@+id/toggle"
+            android:gravity="left|center_vertical"
+            android:paddingBottom="16dp"
+            android:paddingLeft="4dp"
+            android:paddingTop="16dp"
+            android:text="Example Set Name(4)"
+            android:textColor="@color/secondary_light"
+            android:textSize="24sp"
+            android:textStyle="normal|bold" />
+
+        <EditText
+            android:id="@+id/etSetTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/ivCaret"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@id/ivCaret"
+            android:layout_toLeftOf="@+id/toggle"
+            android:layout_toRightOf="@id/ivCaret"
+            android:layout_toStartOf="@+id/toggle"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left|center_vertical"
+            android:hint="Set Title"
+            android:inputType="textCapWords"
+            android:paddingBottom="16dp"
+            android:paddingLeft="8dp"
+            android:paddingTop="16dp"
+            android:selectAllOnFocus="true"
+            android:textColor="@color/secondary_light"
+            android:textSize="24sp"
+            android:textStyle="normal|bold"
+            android:visibility="invisible" />
+
+        <Switch
+            android:id="@+id/toggle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/tvSetTitle"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/tvSetTitle"
+            android:background="?android:attr/selectableItemBackground"
+            android:gravity="center_vertical|end"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp" />
+
+        <TextView
+            android:id="@+id/tvTermTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tvSetTitle"
+            android:layout_alignStart="@+id/tvSetTitle"
+            android:layout_below="@+id/tvSetTitle"
+            android:tag="@string/TAG_IS_NOT_HEADER"
+            android:text="Term"
+            android:textStyle="normal|bold"
+            tools:text="Term"
+            tools:visibility="visible" />
+
+        <Space
+            android:id="@+id/space_centre"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_below="@+id/tvSetTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:tag="@string/TAG_IS_NOT_HEADER"
+            tools:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tvDefinitionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvSetTitle"
+            android:layout_toRightOf="@+id/space_centre"
+            android:tag="@string/TAG_IS_NOT_HEADER"
+            android:text="Definition"
+            android:textStyle="normal|bold"
+            tools:text="Definition"
+            tools:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/llTandD"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignLeft="@+id/tvTermTitle"
+            android:layout_below="@+id/tvTermTitle"
+            android:divider="?android:attr/listDivider"
+            android:orientation="vertical"
+            android:paddingEnd="4dp"
+            android:paddingRight="4dp"
+            android:showDividers="middle" />
+
+        <!--<ListView-->
+        <!--android:id="@+id/lvTandD"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_alignLeft="@+id/tvTermTitle"-->
+        <!--android:layout_below="@+id/tvTermTitle"-->
+        <!--android:footerDividersEnabled="false"-->
+        <!--android:paddingEnd="4dp"-->
+        <!--android:paddingRight="4dp"-->
+        <!--android:scrollbars="none"-->
+        <!--android:tag="@string/TAG_IS_NOT_HEADER"-->
+        <!--android:visibility="gone" />-->
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

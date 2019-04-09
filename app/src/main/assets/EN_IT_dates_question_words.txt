@@ -1,0 +1,21 @@
+English;Italian;EN-IT Dates&Questions
+Do you speak English   ;Parli inglese?
+Who                    ;Chi?
+What                   ;Che cosa?
+Where                  ;Dove?
+When                   ;quando?
+Why                    ;Perché?
+How                    ;Come?
+Today                  ;Oggi
+Tomorrow               ;Domani
+Yesterday              ;Ieri
+Monday                 ;Lunedi(lun.)
+Tuesday                ;martedì(mar.)
+Wednesday              ;mercoledì(mer.)
+Thursday               ;giovedi(gio.)
+Friday                 ;Venerdì(ven.)
+Saturday               ;Sabato(sab.)
+Sunday                 ;Domenica(do.)
+Weekday                ;giorno feriale
+Weekend                ;Fine settimana
+Will you bring the bill;Ci porta il conto?

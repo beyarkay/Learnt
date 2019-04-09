@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="primary">#1e88e5</color>
+    <color name="primary_text">#e3f2fd</color>
+    <color name="primary_light">#6ab7ff</color>
+    <color name="primary_dark">#005cb2</color>
+
+    <color name="secondary">#673ab7</color>
+    <color name="secondary_text">#ede7f6</color>
+    <color name="secondary_light">#9a67ea</color>
+    <color name="secondary_dark">#320b86</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="text_greyed_out">@color/grey_C</color>
+    <color name="text_normal">@color/grey_7</color>
+
+
+    <!--<color name="clr_blue_1">#1975D2</color>-->
+    <!--<color name="clr_blue_2">#1980D2</color>-->
+    <!--<color name="clr_blue_3">#1985D2</color>-->
+    <!--<color name="clr_blue_4">#19a0D2</color>-->
+    <!--<color name="clr_blue_5">#19a5D2</color>-->
+    <!--<color name="clr_blue_6">#19b0D2</color>-->
+    <!--<color name="clr_blue_7">#19b5D2</color>-->
+    <!--<color name="clr_blue_8">#19c0D2</color>-->
+    <!--<color name="clr_blue_A">#19c5D2</color>-->
+    <!--<color name="clr_blue_B">#19d0D2</color>-->
+
+
+    <!--<color name="clr_transparent">#0000</color>-->
+
+    <!--<color name="clr_blue_light">#30a0ff</color>-->
+    <!--<color name="clr_blue_dark">#0060c0</color>-->
+
+    <!--<color name="clr_primary">#1976d2</color>-->
+    <!--<color name="clr_primary_light">#63a4ff</color>-->
+    <!--<color name="clr_primary_dark">#004ba0</color>-->
+
+    <!--<color name="clr_secondary">#4527a0</color>-->
+    <!--<color name="clr_secondary_light">#7953d2</color>-->
+    <!--<color name="clr_secondary_very_light">#ac86f5</color>-->
+    <!--<color name="clr_secondary_dark">#000070</color>-->
+
+    <!--<color name="clr_tertiary">#2e7d32</color>-->
+    <!--<color name="clr_tertiary_light">#60ad5e</color>-->
+    <!--<color name="clr_tertiary_dark">#005005</color>-->
+
+    <!--<color name="clr_quaternary">#e64a19</color>-->
+    <!--<color name="clr_quaternary_light">#ff7d47</color>-->
+    <!--<color name="clr_quaternary_dark">#ac0800</color>-->
+
+
+
+    <color name="grey_0">#000</color>
+    <color name="grey_1">#111</color>
+    <color name="grey_2">#222</color>
+    <color name="grey_3">#333</color>
+    <color name="grey_4">#444</color>
+    <color name="grey_5">#555</color>
+    <color name="grey_6">#666</color>
+    <color name="grey_7">#777</color>
+    <color name="grey_8">#888</color>
+    <color name="grey_A">#AAA</color>
+    <color name="grey_B">#BBB</color>
+    <color name="grey_C">#CCC</color>
+    <color name="grey_D">#DDD</color>
+    <color name="grey_E">#EEE</color>
+    <color name="grey_F">#FFF</color>
+
+
+
+    <!--&lt;!&ndash; Screens background color&ndash;&gt;-->
+    <!--<color name="bg_screen1">@color/clr_blue_B</color>-->
+    <!--<color name="bg_screen2">@color/clr_blue_8</color>-->
+    <!--<color name="bg_screen3">@color/clr_blue_6</color>-->
+    <!--<color name="bg_screen4">@color/clr_blue_4</color>-->
+    <!--<color name="bg_screen5">@color/clr_blue_2</color>-->
+    <!--<color name="bg_screen6">@color/clr_blue_2</color>-->
+
+    <!--&lt;!&ndash; dots inactive colors &ndash;&gt;-->
+    <!--<color name="dot_dark_screen1">@color/clr_blue_dark</color>-->
+    <!--<color name="dot_dark_screen2">@color/clr_blue_dark</color>-->
+    <!--<color name="dot_dark_screen3">@color/clr_blue_dark</color>-->
+    <!--<color name="dot_dark_screen4">@color/clr_blue_dark</color>-->
+    <!--<color name="dot_dark_screen5">@color/clr_blue_dark</color>-->
+    <!--<color name="dot_dark_screen6">@color/clr_blue_dark</color>-->
+
+    <!--&lt;!&ndash; dots active colors &ndash;&gt;-->
+    <!--<color name="dot_light_screen1">@color/clr_blue_light</color>-->
+    <!--<color name="dot_light_screen2">@color/clr_blue_light</color>-->
+    <!--<color name="dot_light_screen3">@color/clr_blue_light</color>-->
+    <!--<color name="dot_light_screen4">@color/clr_blue_light</color>-->
+    <!--<color name="dot_light_screen5">@color/clr_blue_light</color>-->
+    <!--<color name="dot_light_screen6">@color/clr_blue_light</color>-->
+    <!--<color name="accent_material_light_1">#304ffe</color>-->
+
+    <!--<array name="array_dot_active">-->
+        <!--<item>@color/dot_light_screen1</item>-->
+        <!--<item>@color/dot_light_screen2</item>-->
+        <!--<item>@color/dot_light_screen3</item>-->
+        <!--<item>@color/dot_light_screen4</item>-->
+        <!--<item>@color/dot_light_screen5</item>-->
+        <!--<item>@color/dot_light_screen6</item>-->
+    <!--</array>-->
+
+    <!--<array name="array_dot_inactive">-->
+        <!--<item>@color/dot_dark_screen1</item>-->
+        <!--<item>@color/dot_dark_screen2</item>-->
+        <!--<item>@color/dot_dark_screen3</item>-->
+        <!--<item>@color/dot_dark_screen4</item>-->
+        <!--<item>@color/dot_dark_screen5</item>-->
+        <!--<item>@color/dot_dark_screen6</item>-->
+    <!--</array>-->
+
+</resources>

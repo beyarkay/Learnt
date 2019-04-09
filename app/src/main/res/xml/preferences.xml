@@ -1,0 +1,74 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Notifications">
+
+        <!--<SwitchPreference-->
+            <!--android:defaultValue="true"-->
+            <!--android:key="pref_use_smart_duration"-->
+            <!--android:summary="Adjust the amount of time the answer is shown for based on the answer's length"-->
+            <!--android:title="Use smart answer durations" />-->
+
+        <!--<beyarkay.learnt.NumberPickerPreference-->
+            <!--android:defaultValue="70"-->
+            <!--android:key="pref_millis_per_char"-->
+            <!--android:dependency="pref_use_smart_duration"-->
+            <!--android:title="Milliseconds per character(default 70)" />-->
+
+        <!--<SwitchPreference-->
+            <!--android:defaultValue="false"-->
+            <!--android:key="pref_show_in_menu_bar"-->
+            <!--android:summary="For those who like an empty menu bar"-->
+            <!--android:title="Hide the notification icon from the menu bar" />-->
+
+
+        <ListPreference
+            android:defaultValue="60"
+            android:entries="@array/pref_list_titles_notification_frequency"
+            android:entryValues="@array/pref_list_values_notification_frequency"
+            android:key="pref_notification_frequency"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:title="@string/pref_title_notification_frequency" />
+
+        <ListPreference
+            android:defaultValue="-1"
+            android:entries="@array/pref_list_titles_notification_direction"
+            android:entryValues="@array/pref_list_values_notification_direction"
+            android:key="pref_notification_direction"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:title="@string/pref_title_notification_direction" />
+
+        <EditTextPreference
+            android:defaultValue="@string/pref_notification_prompt_default"
+            android:key="pref_notification_prompt"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Default notification prompt text" />
+    </PreferenceCategory>
+<!--Below is the preference for choosing the term and definition headers-->
+    <!--<PreferenceCategory android:title="Titles">-->
+        <!--<EditTextPreference-->
+            <!--android:capitalize="words"-->
+            <!--android:defaultValue="@string/pref_term_title_default"-->
+            <!--android:inputType="textCapWords"-->
+            <!--android:key="pref_term_header"-->
+            <!--android:maxLines="1"-->
+            <!--android:selectAllOnFocus="true"-->
+            <!--android:singleLine="true"-->
+            <!--android:title="@string/pref_title_chooser_term" />-->
+
+        <!--<EditTextPreference-->
+            <!--android:capitalize="words"-->
+            <!--android:defaultValue="@string/pref_definition_title_default"-->
+            <!--android:inputType="textCapWords"-->
+            <!--android:key="pref_definition_header"-->
+            <!--android:maxLines="1"-->
+            <!--android:selectAllOnFocus="true"-->
+            <!--android:singleLine="true"-->
+            <!--android:title="@string/pref_title_chooser_definition" />-->
+    <!--</PreferenceCategory>-->
+
+
+
+</PreferenceScreen>

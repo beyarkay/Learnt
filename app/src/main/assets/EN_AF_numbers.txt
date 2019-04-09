@@ -1,0 +1,102 @@
+English;Afrikaans;EN-AF Numnbers 1-100
+Zero;zero
+One;een
+Two;twee
+Three;drie
+Four;vier
+Five;Vyf
+Six;ses
+Seven;sewe
+Eight;agt
+Nine;nege
+Ten;tien
+Eleven;elf
+Twelve;twaalf
+Thirteen;dertien
+Fourteen;veertien
+Fifteen;vyftien
+Sixteen;sestien
+Seventeen;sewentien
+Eighteen;agtien
+Nineteen;negentien
+Twenty;Twintig
+Twenty-One;Een en twintig
+Twenty-Two;Twee en twintig
+Twenty-Three;Drie en twintig
+Twenty-Four;Vier en twintig
+Twenty-Five;Vyf en twintig
+Twenty-Six;Ses en twintig
+Twenty-Seven;Sewe en twintig
+Twenty-Eight;Agt en twintig
+Twenty-Nine;Nege en twintig
+Thirty;dertig
+Thirty-One;Dertig-One
+Thirty-Two;Twee en dertig
+Thirty-Three;Drie en dertig
+Thirty-Four;Vier en dertig
+Thirty-Five;Vyf-en-dertig
+Thirty-Six;Ses en dertig
+Thirty-Seven;Sewe en dertig
+Thirty-Eight;Agt en dertig
+Thirty-Nine;Nege en dertig
+Forty;veertig
+Forty-One;Een en veertig
+Forty-Two;Twee en veertig
+Forty-Three;Drie-en-veertig
+Forty-Four;Vier en veertig
+Forty-Five;Vyf en veertig
+Forty-Six;Ses en veertig
+Forty-Seven;Sewe en veertig
+Forty-Eight;Agt en veertig
+Forty-Nine;Nege en veertig
+Fifty;vyftig
+Fifty-One;Een en vyftig
+Fifty-Two;Twee en vyftig
+Fifty-Three;Drie en vyftig
+Fifty-Four;Vier en vyftig
+Fifty-Five;Vyf en vyftig
+Fifty-Six;Ses en vyftig
+Fifty-Seven;Sewe en vyftig
+Fifty-Eight;Agt en vyftig
+Fifty-Nine;Nege en vyftig
+Sixty;sestig
+Sixty-One;Een en sestig
+Sixty-Two;Twee en sestig
+Sixty-Three;Drie en sestig
+Sixty-Four;Vier en sestig
+Sixty-Five;Vyf en sestig
+Sixty-Six;Ses-en-sestig
+Sixty-Seven;Ses en sewentig
+Sixty-Eight;Agt en sestig
+Sixty-Nine;Nege en sestig
+Seventy;sewentig
+Seventy-One;Een en sewentig
+Seventy-Two;Twee en sewentig
+Seventy-Three;Drie en sewentig
+Seventy-Four;Vier-en-sewentig
+Seventy-Five;Vyf en sewentig
+Seventy-Six;Ses en sewentig
+Seventy-Seven;Sewe en sewentig
+Seventy-Eight;Agt en sewentig
+Seventy-Nine;Nege en sewentig
+Eighty;tagtig
+Eighty-One;Een en tagtig
+Eighty-Two;Twee en tagtig
+Eighty-Three;Drie en tagtig
+Eighty-Four;Vier en tagtig
+Eighty-Five;Vyf en tagtig
+Eighty-Six;Ses en tagtig
+Eighty-Seven;Sewe en tagtig
+Eighty-Eight;Agt en tagtig
+Eighty-Nine;Nege en tagtig
+Ninety;Negentig
+Ninety-One;Negentig-One
+Ninety-Two;Twee en negentig
+Ninety-Three;Negentig Drie
+Ninety-Four;94
+Ninety-Five;Vyf en negentig
+Ninety-Six;Ses en negentig
+Ninety-Seven;Sewe en negentig
+Ninety-Eight;Agt en negentig
+Ninety-Nine;Nege-en-negentig
+Hundred;honderd

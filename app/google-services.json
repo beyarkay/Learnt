@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986847566048",
+    "firebase_url": "https://learnt-b782c.firebaseio.com",
+    "project_id": "learnt-b782c",
+    "storage_bucket": "learnt-b782c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986847566048:android:a8723bb0e4d7683f",
+        "android_client_info": {
+          "package_name": "beyarkay.learnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986847566048-ofhk84c8pjmaeksl6eata54t7sf8mqoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvKCa26YQ81nPtM-40Q1yFFs3pAkp78A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986847566048-ofhk84c8pjmaeksl6eata54t7sf8mqoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

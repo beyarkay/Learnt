@@ -1,0 +1,102 @@
+English;Esperanto;EN-EO Numbers 1-100
+Zero             ;Nulo
+One              ;Unu
+Two              ;Du
+Three            ;Tri
+Four             ;Kvar
+Five             ;Kvin
+Six              ;Ses
+Seven            ;Sep
+Eight            ;Ok
+Nine             ;Naŭ
+Ten              ;Dek
+Eleven           ;dek unu
+Twelve           ;dek du
+Thirteen         ;Dek tri
+Fourteen         ;Dek kvar
+Fifteen          ;Dek kvin
+Sixteen          ;dek ses
+Seventeen        ;Dek sep
+Eighteen         ;Dek ok
+Nineteen         ;Dek naŭ
+Twenty           ;Dudek
+Twenty-One       ;Dudek unu
+Twenty-Two       ;Dudek du
+Twenty-Three     ;Dudek tri
+Twenty-Four      ;Dudek kvar
+Twenty-Five      ;Dudek kvin
+Twenty-Six       ;Dudek Ses
+Twenty-Seven     ;Dudek sep
+Twenty-Eight     ;Dudek ok
+Twenty-Nine      ;Dudek Naŭ
+Thirty           ;Tridek
+Thirty-One       ;Tridek unu
+Thirty-Two       ;Tridek Du
+Thirty-Three     ;Tridek Tri
+Thirty-Four      ;Tridek kvar
+Thirty-Five      ;Tridek kvin
+Thirty-Six       ;Tridek ses
+Thirty-Seven     ;Tridek sep
+Thirty-Eight     ;Tridek ok
+Thirty-Nine      ;Tridek Naŭ
+Forty            ;Kvardek
+Forty-One        ;Kvardek Unu
+Forty-Two        ;Kvardek du
+Forty-Three      ;Kvardek tri
+Forty-Four       ;Kvardek-kvar
+Forty-Five       ;Kvardek kvin
+Forty-Six        ;Kvardek ses
+Forty-Seven      ;Kvardek sep
+Forty-Eight      ;Kvardek ok
+Forty-Nine       ;Kvardek naŭ
+Fifty            ;Kvindek
+Fifty-One        ;Kvindek Unu
+Fifty-Two        ;Kvindek du
+Fifty-Three      ;Kvindek tri
+Fifty-Four       ;Kvindek kvar
+Fifty-Five       ;Kvindek Kvin
+Fifty-Six        ;Kvindek ses
+Fifty-Seven      ;Kvindek sep
+Fifty-Eight      ;Kvindek ok
+Fifty-Nine       ;Kvindek Naŭ
+Sixty            ;Sesdek
+Sixty-One        ;Sesdek unu
+Sixty-Two        ;Sesdek du
+Sixty-Three      ;Sesdek tri
+Sixty-Four       ;Sesdek Kvar
+Sixty-Five       ;Sesdek kvin
+Sixty-Six        ;Sesdek ses
+Sixty-Seven      ;Sesdek sep
+Sixty-Eight      ;Sesdek Ok
+Sixty-Nine       ;Sesdek naŭ
+Seventy          ;sepdek
+Seventy-One      ;Sepdek unu
+Seventy-Two      ;Sepdek Du
+Seventy-Three    ;Sepdek Tri
+Seventy-Four     ;Sepdek Kvar
+Seventy-Five     ;Sepdek kvin
+Seventy-Six      ;Sepdek ses
+Seventy-Seven    ;Sepdek sep
+Seventy-Eight    ;Sepdek Ok
+Seventy-Nine     ;Sepdek Naŭ
+Eighty           ;Okdek
+Eighty-One       ;Okdek unu
+Eighty-Two       ;Okdek du
+Eighty-Three     ;Okdek Tri
+Eighty-Four      ;Okdek kvar
+Eighty-Five      ;Okdek kvin
+Eighty-Six       ;Okdek ses
+Eighty-Seven     ;Okdek sep
+Eighty-Eight     ;Okdek ok
+Eighty-Nine      ;Okdek Naŭ
+Ninety           ;Naŭdek
+Ninety-One       ;Naŭdek Unu
+Ninety-Two       ;Naŭdek du
+Ninety-Three     ;Naŭdek tri
+Ninety-Four      ;Naŭdek Kvar
+Ninety-Five      ;Naŭdek kvin
+Ninety-Six       ;Naŭdek ses
+Ninety-Seven     ;Naŭdek sep
+Ninety-Eight     ;Naŭdek ok
+Ninety-Nine      ;Naŭdek Naŭ
+Hundred          ;Cent

@@ -1,0 +1,14 @@
+English;Italian;EN-IT Pleasantries
+Hi                ;Ciao
+Good morning      ;Buongiorno
+Good evening      ;Buonasera
+Yes               ;Sì
+No                ;No
+Good night        ;Buona notte
+Goodbye           ;Addio
+Please            ;Per favore
+Thank You         ;Grazie
+How are you       ;Come stai
+Very well, thanks ;Molto bene, grazie
+Excuse me         ;Scusami
+Sorry             ;scusate

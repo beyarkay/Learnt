@@ -1,0 +1,14 @@
+English;Afrikaans;EN-AF Pleasantries
+Hi;Hi
+Good morning;Goeie morê
+Good evening;Goeienaand
+Yes;Ja
+No;Nee
+Good night;Goeie nag
+Goodbye;Totsiens
+Please;Asseblief
+Thank You;Dankie
+How are you;Hoe gaan dit?
+Very well, thanks;Baie goed dankie
+Excuse me;Verskoon my
+Sorry;Jammer

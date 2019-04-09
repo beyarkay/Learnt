@@ -1,0 +1,14 @@
+English;French;EN-FR Pleasantries
+Hi                ;Salut
+Good morning      ;Bonjour
+Good evening      ;Bonsoir
+Yes               ;Oui
+No                ;Non
+Good night        ;Bonne nuit
+Goodbye           ;Au revoir
+Please            ;S'il vous plaît
+Thank You         ;Merci
+How are you       ;Comment allez-vous
+Very well, thanks ;Très bien, merci
+Excuse me         ;Excusez-moi
+Sorry             ;Désolé

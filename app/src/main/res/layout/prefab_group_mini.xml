@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="0"
+    android:orientation="horizontal"
+    android:padding="4dp">
+
+    <TextView
+        android:id="@+id/bullet_point"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0"
+        android:paddingRight="4dp"
+        android:text="•"
+        android:textColor="@color/grey_8" />
+
+    <TextView
+        android:id="@+id/tvTerm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/space_center"
+        android:layout_gravity="center_vertical"
+        android:layout_toEndOf="@+id/bullet_point"
+        android:layout_weight="1"
+        android:text="cake"
+        android:textAllCaps="false"
+        android:textColor="@color/grey_8" />
+
+    <!--<ImageView-->
+    <!--android:id="@+id/learnt_status"-->
+    <!--android:visibility="gone"-->
+    <!--android:layout_width="15dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_gravity="center_vertical"-->
+    <!--android:layout_marginLeft="4dp"-->
+    <!--android:layout_marginRight="4dp"-->
+    <!--android:src="@drawable/ic_learnt_status_none" />-->
+
+    <TextView
+        android:id="@+id/tvDefinition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/space_center"
+        android:layout_weight="1"
+        android:text="Gateau"
+        android:textColor="@color/grey_8" />
+
+    <Space
+        android:id="@+id/space_center"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

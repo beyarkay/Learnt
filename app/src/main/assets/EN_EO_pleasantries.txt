@@ -1,0 +1,14 @@
+English;Esperanto;EN-EO Pleasantries
+Hi                ;Saluton
+Good morning      ;Bonan matenon
+Good evening      ;Bonan vesperon
+Yes               ;Jes
+No                ;Ne
+Good night        ;Bonan nokton
+Goodbye           ;ĝis la revido
+Please            ;Gonvolu
+Thank You         ;Dankon
+How are you       ;Kiel vi fartas
+Very well, thanks ;Tre bone, dankon
+Excuse me         ;Pardonu min
+Sorry             ;Pardonon

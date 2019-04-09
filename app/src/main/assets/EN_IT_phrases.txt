@@ -1,0 +1,14 @@
+English;Italian;EN-IT Phrases
+I am learning Italian         ;Sto imparando l'italiano
+Where is the train station?   ;Dove si trova la stazione ferroviaria?
+Where is the Tabacchi?        ;Dove sono i Tabacchi?
+How much does this cost?      ;Quanto costa questo?
+Can I have a capucchino?      ;Posso avere un cappuccino?
+Can I have an Ice cream?      ;Posso avere un gelato?
+Where is the station?         ;Dov’è la stazione;
+Can I have a hot chocolate?
+Do you have a toilet?
+What is your name?
+I'm Boyd
+My name is Boyd
+How are you?
